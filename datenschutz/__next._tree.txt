@@ -1,0 +1,7 @@
+:HL["/brennerei-waldkircher/_next/static/chunks/38upt026bg42d.css","style"]
+:HL["/brennerei-waldkircher/_next/static/media/01d6212a423b17a1-s.p.1pvupmngxrt5z.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/brennerei-waldkircher/_next/static/media/a1d533d37d70920a-s.p.0mhosx07nwlp0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/brennerei-waldkircher/_next/static/media/c5f006ccf96c15fe-s.p.0a0h245ktd4x0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"datenschutz","h":64,"c":"$Q2"}]]
+0:{"b":"smDnwZQBk1Dnr3QgC0ij9","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
